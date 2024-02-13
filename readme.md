@@ -27,7 +27,7 @@ Si eres un desarrollador y quieres modificar este proyecto, también necesitará
 ## Ejecución de las pruebas y Visualización de reporte
 
 1. Navega hasta el directorio del proyecto en tu terminal.
-2. Ejecuta las pruebas con `gradlew test --info`.
+2. Ejecuta las pruebas con `gradle test --info`.
 3. Una vez que las pruebas se hayan ejecutado , Karate generará un informe en HTML. Puedes encontrar el enlace al informe de Serenity en la salida de la consola después de ejecutar las pruebas. Busca la línea que comienza con `HTML report: `. Al hacer clic en el enlace, serás redirigido a tu navegador predeterminado para visualizar el informe. Por ejemplo:
 
 
