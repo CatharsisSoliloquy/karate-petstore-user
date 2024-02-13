@@ -30,10 +30,11 @@ Si eres un desarrollador y quieres modificar este proyecto, también necesitará
 2. Ejecuta las pruebas con `gradlew test --info`.
 3. Una vez que las pruebas se hayan ejecutado , Karate generará un informe en HTML. Puedes encontrar el enlace al informe de Serenity en la salida de la consola después de ejecutar las pruebas. Busca la línea que comienza con `HTML report: `. Al hacer clic en el enlace, serás redirigido a tu navegador predeterminado para visualizar el informe. Por ejemplo:
 
+
+> ```plaintext
 >   HTML report: (paste into browser to view) | Karate version: 1.2.0.RC5
 >    file:///C:/Users/josue/IdeaProjects/karate-petstore-user/build/karate-reports/karate-summary.html
 >   ===================================================================
- 
 
 También puedes encontrar los informes dentro del proyecto. Se encuentra en el directorio dentro `karate-petstore-user/build/karate-reports/`.
 
