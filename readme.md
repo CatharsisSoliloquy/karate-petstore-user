@@ -8,6 +8,7 @@ El objetivo es interactuar con los usuarios (Crear, Leer, Modificar, Eliminar) d
 Para ejecutar este proyecto, necesitarás tener instalado:
 
 - IntelliJ IDEA 2023.3.3
+- JDK 17: Es **muy importante** que tengas Java en tus variables de entorno. Si no sabes cómo hacerlo, puedes seguir esta [guía](https://www.youtube.com/watch?v=BG2OSaxWX4E).
 - Gradle 7.6.1: Es **muy importante** que tengas Gradle en tus variables de entorno. Si no sabes cómo hacerlo, puedes seguir esta [guía](https://www.youtube.com/watch?v=esygQzIRKBQ).
 - Karate se instalará automáticamente al ejecutar el proyecto junto a otras dependencias necesarias.
 
@@ -40,6 +41,6 @@ También puedes encontrar los informes dentro del proyecto. Se encuentra en el d
 
 4. Tambien podras ver el reporte de Cucumber en la ruta del proyecto `/karate-petstore-user/build/cucumber-html-reports/overview-features.html`
 
-## Más información
+## Hallazgos y conclusiones
 
-Para más detalles sobre cómo ejecutar este proyecto y los hallazgos del ejercicio, consulta los archivos `readme.txt` y `conclusiones.txt` respectivamente.
+Por favor, consulta el archivo `conclusiones.txt` para ver los hallazgos y conclusiones de este ejercicio.
