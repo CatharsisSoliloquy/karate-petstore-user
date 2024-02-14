@@ -1,0 +1,22 @@
+En el ejercicio de APIs, se realizó una implementación exitosa y estructurada utilizando la herramienta Karate para la prueba de servicios REST en la página https://petstore.swagger.io/. La elección de Karate se justificó por su eficiencia y facilidad de uso en pruebas de API, permitiendo la creación, búsqueda, actualización y eliminación de usuarios de manera efectiva. A continuación, se presentan los aspectos clave y los beneficios resultantes de esta implementación.
+
+Información Detallada:
+
+Validación de la Funcionalidad:
+Se validó la funcionalidad de la API de la "PetStore" realizando pruebas para crear, buscar, actualizar y eliminar usuarios, identificando entradas, ejecutando tests , capturando salidas y variables asociadas en cada caso.
+
+Uso de Karate para Pruebas de API:
+Karate, como herramienta de pruebas de API, ha demostrado ser eficaz para realizar pruebas en los servicios REST de la "PetStore". Permite escribir pruebas de escenarios en un formato legible y fácil de entender.
+
+Reproducibilidad de Resultados:
+La reproducibilidad de resultados se logró mediante la capacidad de repetir con precisión y rapidez los casos de prueba, generando un ahorro sustancial de tiempo en comparación con las pruebas manuales.
+
+Prácticas de Documentación:
+La creación de un archivo readme.txt con instrucciones paso a paso y un archivo conclusiones.txt con los hallazgos y conclusiones del ejercicio demuestra una buena práctica de documentación, lo que facilita la comprensión y reproducción de las pruebas por parte de otros desarrolladores.
+
+Control de Versiones con GitHub:
+Utilizar GitHub para alojar el código de la prueba ha asegurado una gestión efectiva de versiones.
+Facilita el seguimiento de cambios y promueve la colaboración eficiente entre desarrolladores.
+
+Hallazgos
+La documentación proporcionada por https://petstore.swagger.io/ fue esencial para comprender los modelos y los tipos de datos utilizados en la API. Esta documentación detallada facilitó el proceso de aprendizaje y permitió una integración eficiente. Además, las respuestas de las solicitudes a la API, que se devolvieron en formato JSON, fueron útiles para validar que las operaciones se estaban realizando correctamente.
